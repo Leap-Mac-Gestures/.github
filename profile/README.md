@@ -20,7 +20,7 @@ This application is built specifically for macOS, ensuring deep system integrati
 
 By reducing repetitive actions, Leap for Mac not only speeds up your workflow but also helps prevent strain from excessive typing and clicking. Its robust customization options cater to both novice users and advanced professionals seeking to optimize their interaction with the Mac environment.
 
-![Leap Gesture Customization](https://9to5mac.com/wp-content/uploads/sites/6/2013/07/screen-shot-2013-07-30-at-7-03-51-pm.jpge)
+![Leap Gesture Customization](https://ironicsoftware.com/wp-content/uploads/2020/06/Leap_sm.jpg)
 
 ---
 
